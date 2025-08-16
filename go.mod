@@ -1,4 +1,4 @@
-module github.com/mtsagias/gocatm/gocatcli
+module github.com/mtsagias/gocatm
 
 go 1.22.0
 
